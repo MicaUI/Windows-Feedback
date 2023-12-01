@@ -20,4 +20,8 @@ I drew a layered diagram
 
 ![image](https://github.com/MicaUI/Windows-Feedback/assets/6630660/13d20c09-cc05-480e-aaca-e4d877b483d5)
 
+Try multiple different preview files mixed together, now they are much neater than before
+
+![image](https://github.com/MicaUI/Windows-Feedback/assets/6630660/00c5512c-30d5-4400-9c7f-980e9fc6b8c4)
+
 
