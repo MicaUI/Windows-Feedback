@@ -1,3 +1,5 @@
+https://aka.ms/AAnw505
+
 Remove "Windows Mails", the ancient legacy of Windows Lives from
 
 ```
