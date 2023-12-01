@@ -1,3 +1,5 @@
+https://aka.ms/AAnvxyl
+
 The existing file previews are cluttered, making the entire File Explorer very confusing.
 
 ![8f33239dd50b2f85eae331e842e6fde4](https://github.com/MicaUI/Windows-Feedback/assets/6630660/50251d50-4ec7-4351-b8c6-3be202bb5f8c)
