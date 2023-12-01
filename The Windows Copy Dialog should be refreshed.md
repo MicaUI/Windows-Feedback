@@ -1,3 +1,5 @@
+https://aka.ms/AAnvifr
+
 The Windows Copy Dialog should be refreshed
 
 ![image](https://github.com/MicaUI/Windows-Feedback/assets/6630660/dabd7f89-b664-42e9-9656-4a07969d054e)
